@@ -1,0 +1,36 @@
+HTML Tags Used (10+):
+1. <header>
+2. <nav>
+3. <main>
+4. <section>
+5. <div>
+6. <h1>
+7. <h2>
+8. <p>
+9. <img>
+10. <a>
+11. <table>
+12. <tr>
+13. <td>
+14. <script>
+15. <link>
+16. <footer>
+
+CSS Properties Used (5+):
+1. background-color
+2. color
+3. font-size
+4. display
+5. padding
+6. margin
+7. border-radius
+8. box-shadow
+9. text-decoration
+10. justify-content
+11. align-items
+
+JavaScript Usage:
+I used JavaScript to make the menu interactive, so clicking “Menu” opens and closes the navigation panel.
+
+Bootstrap Usage:
+I used Bootstrap for responsive layout and quick styling utilities, like grid alignment and spacing.
