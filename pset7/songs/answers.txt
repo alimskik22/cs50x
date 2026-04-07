@@ -1,0 +1,6 @@
+SELECT AVG(energy), AVG(valence), AVG(danceability)
+FROM songs;
+
+I think that the way I wrote sql code might not be very representative of the listener, because we need to take average of all (energy + valence + danceability) / 3.
+Additionally, Audio Aura should take into account all data including artists, I guess?
+
