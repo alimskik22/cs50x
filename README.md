@@ -13,5 +13,5 @@ CS50x is Harvard University's introductory computer science course covering:
 - **Flask**: Web development with Python
 - **HTML, CSS, JavaScript**: Front-end development
 
-
+![cs50 certificate](CS50x-Certificate-2026.png)
 
