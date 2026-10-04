@@ -10,7 +10,7 @@
 //  AI Assistance: DeepSeek assisted with quiz logic, StorageManager integration,
 //                 and dynamic question count handling.
 //
-//  Created by Alima Karimova and DeepSeek
+//  Created by Alima Karimova
 //
 
 import SwiftUI
