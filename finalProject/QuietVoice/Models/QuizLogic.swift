@@ -9,7 +9,6 @@
 //               Used by all quiz modes: Sign of the Day, Quick Quiz, Random Set Quiz, Missed Signs Quiz,
 //               Practice Topics, and Practice Fingerspelling.
 //
-//  AI Assistance: DeepSeek helped structure the question generation logic.
 //
 //  Created by Alima Karimova
 //
