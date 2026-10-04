@@ -5,9 +5,8 @@
 //  Description: Quiz mode that presents 5 random questions from the quiz pool
 //               Tracks missed answers for Missed Signs Quiz via StorageManager.
 //
-//  AI Assistance: DeepSeek assisted with question generation and StorageManager integration.
 //
-//  Created by Alima Karimova and DeepSeek
+//  Created by Alima Karimova
 //
 
 import SwiftUI
