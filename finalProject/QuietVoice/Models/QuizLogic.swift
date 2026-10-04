@@ -11,7 +11,7 @@
 //
 //  AI Assistance: DeepSeek helped structure the question generation logic.
 //
-//  Created by Alima Karimova and DeepSeek
+//  Created by Alima Karimova
 //
 import Foundation
 
