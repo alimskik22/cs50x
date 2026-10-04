@@ -7,8 +7,6 @@
 //               Correct answers automatically remove the sign from missed list.
 //               Displays friendly message when no missed signs exist.
 //
-//  AI Assistance: DeepSeek assisted with quiz logic, StorageManager integration,
-//                 and dynamic question count handling.
 //
 //  Created by Alima Karimova
 //
