@@ -9,10 +9,8 @@
 //               Tracks performance using StorageManager for missed sign counts.
 //               Score screen shows results with "Practice Again" option to retry same mode.
 //
-//  AI Assistance: DeepSeek assisted with quiz logic, question generation for letters/numbers,
-//                 and StorageManager integration for missed sign tracking.
 //
-//  Created by Alima Karimova and DeepSeek
+//  Created by Alima Karimova 
 //
 
 import SwiftUI
